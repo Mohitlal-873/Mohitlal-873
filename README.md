@@ -29,7 +29,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitlal-873&label=Profile%20views&color=0e75b6&style=flat" alt="mohitlal-873" /> </p>
 
-- 🔭 I’m currently working on **WeatherApp**
+- 🔭 I’m currently working on **Fullstack**
 
 - 🌱 I’m currently learning **Python, react**
 
